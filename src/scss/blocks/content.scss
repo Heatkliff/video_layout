@@ -1,0 +1,105 @@
+.content {
+  &-filters {
+    &__element {
+
+      &.active {
+
+      }
+    }
+
+    &-view-blocks {
+      &__squares {
+
+      }
+
+      &__lines {
+
+      }
+    }
+  }
+
+  &-blocks {
+    &-element {
+      &-info {
+        &__additional {
+          .close-cross {
+
+          }
+
+          .favorites-more {
+            .favorites-add {
+
+            }
+
+            .more-dots {
+
+            }
+          }
+        }
+
+        &__title-rating {
+          .movie-title {
+
+          }
+
+          .movie-rating {
+
+          }
+        }
+
+        &__genre {
+
+        }
+
+        &__description {
+
+        }
+
+        &__watch-now {
+
+        }
+
+        &.invisibility {
+
+        }
+      }
+
+      &-main {
+        &-preview {
+          .additional-hover {
+
+            .watch-now-block {
+              .-play {
+
+              }
+
+              .-text {
+
+              }
+            }
+
+            .view-info-block {
+
+            }
+          }
+
+        }
+
+        &-info {
+          .__title-rating {
+            .movie-title {
+
+            }
+
+            .movie-rating {
+
+            }
+          }
+          .__genre {
+
+          }
+        }
+      }
+    }
+  }
+}
